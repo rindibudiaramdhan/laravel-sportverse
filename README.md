@@ -8,6 +8,7 @@ Filament v3
 
 ## Installation
 - Clone git repository.
+- Run `php artisan migrate`
 - Create a user
 
 You can create a new user account with the following command:
